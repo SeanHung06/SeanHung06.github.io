@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: posts
 title: Algorithms-Divide-Conquer-Week2(Inversion&Closest Pair)
 description: Algorithms-divide-conquer/Counting Inversions and Closest Pair Problem
-categories: jekyll update
+categories: posts
 
 ---
 

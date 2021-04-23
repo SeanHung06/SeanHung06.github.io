@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: posts
 title: Algorithms-Divide-Conquer
 description: Algorithms-divide-conquer/lecture --merge-sort-analysis
-categories: jekyll update
-
+categories: posts
 ---
 
 **[Coursera/Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer/lecture/wW9On/merge-sort-analysis)**

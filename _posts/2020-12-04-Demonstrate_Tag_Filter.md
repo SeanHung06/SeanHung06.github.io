@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: posts
 title: Demonstrating the Tags Filters in Jeklly
 description: Demonstrating the Tag Filter in Jeklly
+categories: posts
+
 ---
 
 For Website Reference : 
