@@ -20,8 +20,8 @@ title                    : "Sean's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sean Hong"
-description              : "An amazing website."
-url                      : "https://seanhung06.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "An amazing website created by Sean Hong(Software Engineer from Taiwan and Preparing for US Computer Science Master )"
+url                      : "https://seanhung06.github.io/"  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -88,19 +88,19 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-38676921-4"
     anonymize_ip         : # true, false (default)
 
 
 # Site Author
 author:
   name             : "Sean Hong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : "assets/Sean.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "This amazing website is created by **Sean Hong(Software Engineer)** from Taiwan and Preparing for US Computer Science Master"
   location         : "Taiwan Hualien"
   email            : "lixuanhong06@gmail.com"
   links:
-    - label: "Email"
+    - label: "lixuanhong06@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "lixuanhong06@gmail.com"
     - label: "Website"
@@ -281,5 +281,3 @@ defaults:
       share: true
       related: true
 
-page_css:
-  - /path/to/your/custom.css
