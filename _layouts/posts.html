@@ -40,3 +40,23 @@ layout: archive
 
   gtag('config', 'G-7119894C0C');
 </script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
+<script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container">
+<script>
+const gitalk = new Gitalk({
+  clientID: '320be63b04e19fc0aead',
+  clientSecret: 'e0eade90822df87d625b2a647f50bfa1adbbd6e7',
+  repo: 'https://github.com/SeanHung06/Comments_Blog.git',      // The repository of store comments,
+  owner: 'SeanHung06',
+  admin: ['SeanHung06'],
+  id: 'https://seanhung06.github.io/',      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
+
+gitalk.render('gitalk-container')
+</script>
+</div>
+<!--  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 --> 
