@@ -83,18 +83,18 @@ layout: archive
 
 <!--  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 --> 
 
-<div id="gitalk-container">
-  <script>
-  const gitalk = new Gitalk({
-    clientID: '320be63b04e19fc0aead',
-    clientSecret: 'e0eade90822df87d625b2a647f50bfa1adbbd6e7',
-    repo: 'https://github.com/SeanHung06/Comments_Blog.git/',      // The repository of store comments,
-    owner: 'SeanHung06',
-    admin: ['SeanHung06'],
-    id: 'https://seanhung06.github.io/',      // Ensure uniqueness and length less than 50
-    distractionFreeMode: false  // Facebook-like distraction free mode
-  })
-  
-  gitalk.render('gitalk-container')
-  </script>
-  </div>
+<div id="gitalk-container"></div>
+
+<script>
+const gitalk = new Gitalk({
+  clientID: 'ac2288521894e594f3ad',
+  clientSecret: '56927e6f4926b5fd2f389a889ed6f93dc8ed041a',
+  repo: 'Comments_Blog',      // The repository of store comments,
+  owner: 'SeanHung06',
+  admin: ['SeanHung06'],
+  id: location.pathname,      // Ensure uniqueness and length less than 50
+  distractionFreeMode: false  // Facebook-like distraction free mode
+})
+
+gitalk.render('gitalk-container')
+</script>
