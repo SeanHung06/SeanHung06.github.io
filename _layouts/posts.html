@@ -53,7 +53,7 @@ layout: archive
 <script>
 const gitalk = new Gitalk({
   clientID: 'ac2288521894e594f3ad',
-  clientSecret: '${{ secrets.CLIENT }}',
+  clientSecret: _config.env.CLIENT,
   repo: 'Comments_Blog',      // The repository of store comments,
   owner: 'SeanHung06',
   admin: ['SeanHung06'],
@@ -63,3 +63,4 @@ const gitalk = new Gitalk({
 
 gitalk.render('gitalk-container')
 </script>
+

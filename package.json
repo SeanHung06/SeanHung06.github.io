@@ -33,6 +33,7 @@
     "build:js": "npm run uglify && npm run add-banner"
   },
   "dependencies": {
+    "dotenv": "^10.0.0",
     "gitalk": "^1.7.2"
   }
 }
