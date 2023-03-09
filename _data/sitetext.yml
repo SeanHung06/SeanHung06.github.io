@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    #title: Welcome to our Studio!
+    text: Current <a href="https://www.cics.umass.edu/degree-program/masters">University of Massachusetts Amherst M.S. Computer Science</a> Students. <br> Experienced Software Engineer with a demonstrated history of working in the banking industry and participated in several banking projects with Oracle Database and is familiar with financial infrastructure platforms.<br> Also worked at eCloudvalley Digital Technology as a data engineer focusing on Data Analytics Platform Implementation. <br> <br> I have a diverse range of experiences, including full-stack engineering, game development, and data analysis. As I approach the end of my academic journey, I am seeking full-time employment starting from the summer of 2023. Please feel free to contact me via email if you have any opportunities that align with my skill set.
+    #button: Tell Me More
     buttonlink: "#services"
 
   services:
@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Programming"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fab fa-rectangle-terminal #find more at https://fontawesome.com/icons
+      - title: "Web-Dev"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Others"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
