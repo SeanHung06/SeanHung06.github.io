@@ -20,14 +20,14 @@ title      : Li-Xuan Hong Portfolio
 email      : lixuanhong06@gmail.com #this is also the email contact forms will go to
 description: "Current University of Massachusetts Amherst MS, Computer Science Students. <br> Experienced Software Engineer with a demonstrated history of working in the banking industry and participated in several banking projects with Oracle Database and is familiar with financial infrastructure platforms.<br> Also worked at eCloudvalley Digital Technology as a data engineer focusing on Data Analytics Platform Implementation."
 author     : Li-Xuan Hong
-# logo:     #optional, defaults to site title
+logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: "UA-38676921-4"
 
 collections:
   portfolio:

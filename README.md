@@ -7,7 +7,6 @@
 
 ## Preview - click for live demo
 
-[![screenshot](/screenshot.PNG)][demo-page]
 
 ## Warning
 
