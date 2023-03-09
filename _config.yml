@@ -1,5 +1,5 @@
 url: https://seanhung06.github.io
-baseurl: seanhung06.github.io
+baseurl: /seanhung06.github.io
 
 # Site settings
 title: Awesome Title
@@ -9,17 +9,6 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
 - name: Larry Parker
   pic: 2
   position: Lead Marketer
@@ -29,18 +18,9 @@ people:
     - title: facebook
       url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/sean-hong-s1996/
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
