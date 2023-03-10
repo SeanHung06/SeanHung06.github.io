@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     #title: Welcome to our Studio!
-    text: Current <a href="https://www.cics.umass.edu/degree-program/masters">University of Massachusetts Amherst M.S. Computer Science</a> Student. <br> Experienced Software Engineer with a demonstrated history of working in the banking industry(<a href="https://www.ctbcbankusa.com/">China Trust Banking Corporation</a>) and participated in several banking projects with Oracle Database and is familiar with financial infrastructure platforms.<br> Also worked at <a href="https://www.ecloudvalley.com/en">eCloudvalley Digital Technology</a> as a data engineer focusing on Data Analytics Platform Implementation. <br> <br>I have a diverse range of experiences, including full-stack engineering, database programming, and cloud engineering. <br>I am seeking full-time software engineer internship starting from the summer of 2023 or fall for the co-op. Please feel free to contact me via email if you have any opportunities that align with my skill set and my working experience.<br>For more information about my background and experiences, please refer to my updated <a href="https://drive.google.com/file/d/1XbDaT6h5RvsfJ0pzrBgYQtiJS5mYHfvt/view?usp=sharing">Resume</a> .
+    text: Current <a href="https://www.cics.umass.edu/degree-program/masters">University of Massachusetts Amherst</a>  M.S. Computer Science Student. <br> Experienced Software Engineer with a demonstrated history of working in the banking industry(<a href="https://www.ctbcbankusa.com/">China Trust Banking Corporation</a>) and participated in several banking projects with Oracle Database and is familiar with financial infrastructure platforms.<br> Also worked at <a href="https://www.ecloudvalley.com/en">eCloudvalley Digital Technology</a> as a data engineer focusing on Data Analytics Platform Implementation. <br> <br>I have a diverse range of experiences, including full-stack engineering, database programming, and cloud engineering. <br>I am seeking full-time software engineer internship starting from the summer of 2023 or fall for the co-op. Please feel free to contact me via email if you have any opportunities that align with my skill set and my working experience.<br>For more information about my background and experiences, please refer to my updated <a href="https://drive.google.com/file/d/1XbDaT6h5RvsfJ0pzrBgYQtiJS5mYHfvt/view?usp=sharing">Resume</a> .
     #button: Tell Me More
     buttonlink: "#services"
 
@@ -22,16 +22,16 @@ en: &DEFAULT_EN
     section: skills
     list: 
       - title: "Programming"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Python / C / C++ / Java / C# / Solidity / PL/SQL / Typescript / Node.js"
         icon: fab fa-rectangle-terminal #find more at https://fontawesome.com/icons
       - title: "DBMS"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Oracle Database / MySQL / MongoDB / PostgreSQL"
         icon: fas fa-laptop
       - title: "Web-dev"
-        desc: "Your description here, full **Markdown** support"
+        desc: "JavaScript / React.js / GraphQL / HTML / CSS / Bootstrap"
         icon: fab fa-markdown
       - title: "Tools/Others"
-        desc: "Your description here, full **Markdown** support"
+        desc: "AWS Services / Git / Unity / Kubernetes / Docker / Jenkins / Splunk / Shell Script"
         icon: fab fa-markdown
         
 
@@ -107,11 +107,11 @@ en: &DEFAULT_EN
         image: assets/img/IMG_0990-5X5.jpeg
         social:
           - url: https://twitter.com
-            icon: fab fa-twitter
+            icon: fa fa-file-user
           - url: https://github.com/SeanHung06
             icon: fab fa-github
           - url: https://www.linkedin.com/in/sean-hong-s1996
-            icon: fab fa-linkedin-in
+            icon: fab fa-linkedin
 
   contact:
     title: "Contact Us"
