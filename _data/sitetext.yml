@@ -23,16 +23,16 @@ en: &DEFAULT_EN
     list: 
       - title: "Programming"
         desc: "Python / C / C++ / Java / C# / Solidity / PL/SQL / Typescript / Node.js"
-        icon: fab fa-rectangle-terminal #find more at https://fontawesome.com/icons
+        icon: fa fa-terminal #find more at https://fontawesome.com/icons
       - title: "DBMS"
         desc: "Oracle Database / MySQL / MongoDB / PostgreSQL"
-        icon: fas fa-laptop
+        icon: fas fa-database
       - title: "Web-dev"
         desc: "JavaScript / React.js / GraphQL / HTML / CSS / Bootstrap"
-        icon: fab fa-markdown
+        icon: fas fa-globe
       - title: "Tools/Others"
         desc: "AWS Services / Git / Unity / Kubernetes / Docker / Jenkins / Splunk / Shell Script"
-        icon: fab fa-markdown
+        icon: fa fa-tools
         
 
   portfolio:
@@ -106,8 +106,8 @@ en: &DEFAULT_EN
         role: "Current University of Massachusetts Amherst M.S. in Computer Science"
         image: assets/img/IMG_0990-5X5.jpeg
         social:
-          - url: https://twitter.com
-            icon: fa fa-file-user
+          - url: https://drive.google.com/file/d/1XbDaT6h5RvsfJ0pzrBgYQtiJS5mYHfvt/view?usp=sharing
+            icon: fa fa-user
           - url: https://github.com/SeanHung06
             icon: fab fa-github
           - url: https://www.linkedin.com/in/sean-hong-s1996
