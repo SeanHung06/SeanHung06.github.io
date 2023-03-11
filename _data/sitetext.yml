@@ -51,22 +51,22 @@ en: &DEFAULT_EN
       - title: "National ChengChi University"
         year: "2014-2018"
         desc: "B.S. Land Economics(Spatial Information) and Minor in Computer Science"
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/nccu.jpg
         alt:
       - title: "Software engineer <br> China Trust Banking Corporation"
         year: "2019-2021"
         desc: "Launched Container Database to deploy and compile, synchronized it with all pluggable databases across 7 countries including New York branch."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/ctbc_bank.jpg
         alt:
       - title: "Software and Data engineer <br> eCloudvalley Digital Technology"
         year: "2022"
         desc: "Data Analytics Platform Implementation"
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/ecloud_valley.jpg
         alt: image alt text
       - title: "University of Massachusetts Amherst (UMASS)"
         year: "2022-2024(Expected)"
         desc: "M.S. in Computer Science GPA: 3.8/4.0"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/umass.jpg
         alt:
         # you can enforce the alignment
         align: right
