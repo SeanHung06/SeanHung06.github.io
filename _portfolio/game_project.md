@@ -10,8 +10,8 @@ subtitle: Umass Game Programming Project
 image: assets/img/portfolio/game.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: 
 ---
-##### Constructed a 3D interactive video game using Unity C# to  
-##### implement a randomly generated maze game with backtracking algorithm.
+###### Constructed a 3D interactive video game using Unity C# to  
+###### implement a randomly generated maze game with backtracking algorithm.
 
 {:.list-inline} 
 - Date: 2022/12
