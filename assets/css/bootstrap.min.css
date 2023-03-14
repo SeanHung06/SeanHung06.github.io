@@ -531,6 +531,14 @@
     margin-right: -15px;
     margin-left: -15px;
   }
+  .row_portifolio {
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: -15px;
+    margin-left: -15px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
   .no-gutters {
     margin-right: 0;
     margin-left: 0;
@@ -5376,6 +5384,7 @@
     -ms-flex: 1 1 auto;
     flex: 1 1 auto;
     padding: 1rem;
+    text-align: left;
   }
   .modal-footer {
     display: -ms-flexbox;
