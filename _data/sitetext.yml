@@ -75,7 +75,7 @@ en: &DEFAULT_EN
     end: "To be <br> Continue"
 
   about:
-    title: "About Us"
+    title: ""
     text: "our story"
     body: ""
     section: about
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "About Me"
+    title: ""
     text: "Experienced Software Engineer for 2.5 years"
     subtext: 
     section: team
