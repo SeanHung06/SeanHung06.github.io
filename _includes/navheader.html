@@ -54,7 +54,11 @@
         <div class="intro-lead-in">{{ site.data.sitetext[site.locale].header.title | markdownify }}</div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.text -%}
-        <div class="intro-heading">{{ site.data.sitetext[site.locale].header.text | markdownify }}</div>
+        <div class="intro-heading">
+          {% for det in site.data.sitetext[site.locale].header.text %}
+              <div class="text">{{ det.detail | markdownify }}</div>
+          {% endfor %}
+        </div>
 	  {%- endif -%}
 	  {%- if site.data.sitetext[site.locale].header.button -%}
         <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="{{ site.data.sitetext[site.locale].header.buttonlink }}">{{ site.data.sitetext[site.locale].header.button }}</a>
