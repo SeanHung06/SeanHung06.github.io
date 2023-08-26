@@ -72,6 +72,11 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
+      - title: "Software engineer Intern - Marketing Technology <br> SoFi Technologies, Inc"
+        year: "2023 June -2023 Aug"
+        desc: "Implemented data pipe line using Java Spring Boot and Kotlin to facilitate near real‐time propagation of user privacy preference changes to datalake."
+        image: assets/img/timeline/SoFi.png
+        alt:
     end: "To be <br> Continue"
 
   about:
