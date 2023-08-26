@@ -73,7 +73,7 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
       - title: "Software engineer Intern <br> SoFi Technologies, Inc"
-        year: "2023 June -2023 Aug"
+        year: "2023"
         desc: "Implemented data pipe line using Java Spring Boot and Kotlin to facilitate near real‐time propagation of user privacy preference changes to datalake."
         image: assets/img/timeline/SoFi.png
         alt:
