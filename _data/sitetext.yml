@@ -105,7 +105,7 @@ en: &DEFAULT_EN
 
   team:
     title: ""
-    text: "Experienced Software Engineer for 3 years and Ex SWE intern at <a href="https://www.sofi.com">SoFi</a>."
+    text: "Experienced Software Engineer for 3 years and Ex SWE intern at SoFi "
     subtext: 
     section: team
     people:
