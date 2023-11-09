@@ -13,8 +13,7 @@ en: &DEFAULT_EN
   header:
     #title: Welcome to our Studio!
     text: 
-      - detail: Ex Software Engineer intern at <a href="https://www.sofi.com/">SoFi</a>         Current <a href="https://www.cics.umass.edu/degree-program/masters">University of Massachusetts Amherst</a>  M.S. Computer Science Student. <br> Experienced Software Engineer with a demonstrated history of working in the banking industry(<a href="https://www.ctbcbankusa.com/">China Trust Banking Corporation</a>) and participated in several banking projects with Oracle Database and is familiar with financial infrastructure platforms.<br> Also worked at <a href="https://www.ecloudvalley.com/en">eCloudvalley Digital Technology</a> as a data engineer focusing on Data Analytics Platform Implementation .
-      - detail: I have a diverse range of experiences, including full-stack engineering, database programming, and cloud engineering. <br>I am seeking full-time software engineer position starting from 2024 May. Please feel free to contact me via email if you have any opportunities that align with my skill set and my working experience.<br>For more information about my background and experiences, please refer to my updated <a href="https://drive.google.com/file/d/1g-qAnJ9A4H28TgnH1xmatGNRkTi8-oJk/view?usp=share_link">Resume</a> .
+      - detail: Ex Software Engineer intern at <a href="https://www.sofi.com/">SoFi</a> with diverse range of experiences, including full-stack engineering, database programming, and cloud engineering. Current <a href="https://www.cics.umass.edu/degree-program/masters">University of Massachusetts Amherst</a>  M.S. Computer Science Student. <br>  <br> I am seeking full-time software engineer position starting from 2024 May. Please feel free to contact me via email if you have any opportunities that align with my skill set and my working experience.<br><br>Please refer to my updated <a href="https://drive.google.com/file/d/1CgIQqo8nFP3IEqbahGZ_SMjaDy_96j3u/view?usp=sharing">Resume</a> .
     #button: Tell Me More
     buttonlink: "#services"
 
@@ -24,7 +23,7 @@ en: &DEFAULT_EN
     section: skills
     list: 
       - title: "Programming"
-        desc: "Python / C / C++ / Java / C# / Solidity / PL/SQL / Typescript / Node.js"
+        desc: "Java / Python / Go / C# / C / C++ / PL/SQL / Typescript / Node.js"
         icon: fa fa-terminal #find more at https://fontawesome.com/icons
       - title: "DBMS"
         desc: "Oracle Database / MySQL / MongoDB / PostgreSQL"
@@ -33,7 +32,7 @@ en: &DEFAULT_EN
         desc: "JavaScript / React.js / GraphQL / HTML / CSS / Bootstrap"
         icon: fas fa-globe
       - title: "Tools/Others"
-        desc: "AWS Services / Git / Unity / Kubernetes / Docker / Jenkins / Splunk / Shell Script"
+        desc: "AWS Services / Snowflake / Apache Airflow / Kubernetes / Docker / Git"
         icon: fa fa-tools
         
 
@@ -113,7 +112,7 @@ en: &DEFAULT_EN
         role: "Current University of Massachusetts Amherst M.S. in Computer Science"
         image: assets/img/IMG_0990-5X5.jpeg
         social:
-          - url: https://drive.google.com/file/d/1XbDaT6h5RvsfJ0pzrBgYQtiJS5mYHfvt/view?usp=sharing
+          - url: https://drive.google.com/file/d/1CgIQqo8nFP3IEqbahGZ_SMjaDy_96j3u/view?usp=sharing
             icon: fa fa-user
           - url: https://github.com/SeanHung06
             icon: fab fa-github
