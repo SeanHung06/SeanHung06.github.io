@@ -74,7 +74,7 @@ en: &DEFAULT_EN
       - title: "Software engineer Intern <br> SoFi Technologies, Inc"
         year: "2023"
         desc: "Implemented data pipe line using Java Spring Boot and Kotlin to facilitate near real‐time propagation of user privacy preference changes to datalake."
-        image: assets/img/timeline/SoFi.png
+        image: assets/img/timeline/SoFi_8.png
         alt:
     end: "To be <br> Continue"
 
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
     people:
       - name: "Li-Xuan Hong"
         role: "Current University of Massachusetts Amherst M.S. in Computer Science"
-        image: assets/img/IMG_0990-5X5.jpeg
+        image: assets/img/profile1.png
         social:
           - url: https://drive.google.com/file/d/1CgIQqo8nFP3IEqbahGZ_SMjaDy_96j3u/view?usp=sharing
             icon: fa fa-user
