@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     #title: Welcome to our Studio!
     text: 
-      - detail: Ex Software Engineer intern at <a href="https://www.sofi.com/">SoFi</a> with diverse range of experiences, including full-stack engineering, database programming, and cloud engineering. Current <a href="https://www.cics.umass.edu/degree-program/masters">University of Massachusetts Amherst</a>  M.S. Computer Science Student. <br>  <br> I am seeking full-time software engineer position starting from 2024 May. Please feel free to contact me via <a href="mailto:lixuanhong06@gmail.com">email</a> if you have any opportunities that align with my skill set and my working experience.<br><br>Please refer to my updated <a href="https://drive.google.com/file/d/1CgIQqo8nFP3IEqbahGZ_SMjaDy_96j3u/view?usp=sharing">Resume</a> .
+      - detail: Ex Software Engineer intern at <a href="https://www.sofi.com/">SoFi</a> with diverse range of experiences, including full-stack engineering, database programming, and cloud engineering. Current <a href="https://www.cics.umass.edu/degree-program/masters">University of Massachusetts Amherst</a>  M.S. Computer Science Student. <br>  <br> I am seeking a full-time software engineer position starting in 2024 May. Please feel free to contact me via <a href="mailto:lixuanhong06@gmail.com">email</a> if you have any opportunities that align with my skill set and my working experience.<br><br>Please refer to my updated <a href="https://drive.google.com/file/d/1zykp4_oshDldh_rCtCThWHV5RWNZTH0t/view?usp=sharing">Resume</a> .
     #button: Tell Me More
     buttonlink: "#services"
 
