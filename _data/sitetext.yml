@@ -112,7 +112,7 @@ en: &DEFAULT_EN
         role: "Current University of Massachusetts Amherst M.S. in Computer Science"
         image: assets/img/profile1.png
         social:
-          - url: https://drive.google.com/file/d/1CgIQqo8nFP3IEqbahGZ_SMjaDy_96j3u/view?usp=sharing
+          - url: https://drive.google.com/file/d/1zykp4_oshDldh_rCtCThWHV5RWNZTH0t/view?usp=sharing
             icon: fa fa-user
           - url: https://github.com/SeanHung06
             icon: fab fa-github
